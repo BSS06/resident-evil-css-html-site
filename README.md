@@ -142,7 +142,3 @@ Each accepted submission is appended to `data/submissions.txt`. Direct browser a
 - Google Fonts: Share Tech Mono, Oswald, Rajdhani
 
 ---
-
-## Credits
-
-Educational laboratory project (Web Technologies, Lab 4). Resident Evil and all related names, characters and images are trademarks and property of Capcom. This is a non-commercial fan project.
